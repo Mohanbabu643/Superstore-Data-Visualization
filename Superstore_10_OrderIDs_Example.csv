@@ -1,0 +1,13 @@
+Order ID,Order Date,Ship Date,Customer ID,Segment,Region,Category,Sales,Quantity,Discount,Profit
+CA-2016-152156,11-08-2016,11-11-2016,CG-12520,Consumer,West,Furniture,261.96,2,0,41.91
+CA-2016-152156,11-08-2016,11-11-2016,CG-12520,Consumer,West,Furniture,731.94,3,0,219.58
+CA-2016-138688,06-12-2016,6/16/16,DV-13045,Consumer,West,Office Supplies,14.62,2,0,5.44
+US-2015-108966,10-11-2015,10/18/15,SO-20335,Consumer,East,Technology,957.58,5,0,191.87
+US-2015-108966,10-11-2015,10/18/15,SO-20335,Consumer,East,Technology,22.37,2,0,4.36
+CA-2014-115812,06-09-2014,6/14/14,BH-11710,Consumer,West,Furniture,48.86,7,0,14.17
+CA-2014-115812,06-09-2014,6/14/14,BH-11710,Consumer,West,Furniture,7.28,1,0,1.97
+CA-2014-105893,11-11-2014,11/18/14,AA-10480,Consumer,West,Office Supplies,907.15,5,0,90.72
+CA-2017-114412,11/26/17,11/30/17,IM-15070,Consumer,West,Technology,18.39,2,0,5.34
+CA-2016-161389,10/18/16,10/22/16,HP-14815,Consumer,West,Office Supplies,114.9,3,0,34.17
+CA-2016-161389,10/18/16,10/22/16,HP-14815,Consumer,West,Office Supplies,1706.18,9,0,308.82
+CA-2015-145372,6/27/15,07-03-2015,JM-15580,Consumer,West,Furniture,957.58,5,0,191.87
